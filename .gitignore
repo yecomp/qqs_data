@@ -1,4 +1,5 @@
 1encrypt_json.py
 1decrypt_json.py
+auto_encrypt_json.py
 1raw.json
 1raw_out.json
